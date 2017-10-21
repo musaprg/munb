@@ -1,4 +1,8 @@
-# Pythonで体験するベイズ推論
+# Pythonで体験するベイズ推論 まとめ
+
+[公式サイト](http://www.morikita.co.jp/books/book/3155)
+[Amazon.co.jp](http://amzn.to/2l6lOxK)
+[サンプルコード類](https://git.io/vXLAU)
 
 ## 1. ベイズ推論の考え方
 
