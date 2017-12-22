@@ -84,10 +84,13 @@ wget http://raw.githubusercontent.com/raspberrypi/firmware/master/boot/bootcode.
 
 ### ブログ等
 
-[ラズパイ3でベアメタル - その1:何もしない無限ループプログラム](http://d.hatena.ne.jp/cupnes/20160514/1463238354)
+- [dwelch67/raspberrypi: Raspberry Pi ARM based bare metal examples](https://github.com/dwelch67/raspberrypi)
+  - ここの参考実装めっちゃわかりやすかった。
 
-[RaspberryPiのVideoCore IV(GPU)を使ってOS無し(ベアメタル)からポリゴン出して遊ぶ](https://qiita.com/gyabo/items/f3a411a63d608d00b384)
+- [ラズパイ3でベアメタル - その1:何もしない無限ループプログラム](http://d.hatena.ne.jp/cupnes/20160514/1463238354)
 
-[RaspberryPi3 64bitモード ベアメタルをJTAGデバッグする](https://qiita.com/toshinaga/items/146bcb00db235258162f)
+- [RaspberryPiのVideoCore IV(GPU)を使ってOS無し(ベアメタル)からポリゴン出して遊ぶ](https://qiita.com/gyabo/items/f3a411a63d608d00b384)
+
+- [RaspberryPi3 64bitモード ベアメタルをJTAGデバッグする](https://qiita.com/toshinaga/items/146bcb00db235258162f)
 
 [EclipseとOpenOCDでSTM32(ARM)マイコン開発](https://qiita.com/Ted-HM/items/760759b6b152230b48a8)
