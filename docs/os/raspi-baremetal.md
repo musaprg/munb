@@ -86,7 +86,7 @@ wget http://raw.githubusercontent.com/raspberrypi/firmware/master/boot/bootcode.
 
 - [dwelch67/raspberrypi: Raspberry Pi ARM based bare metal examples](https://github.com/dwelch67/raspberrypi)
 
-  - ここの参考実装めっちゃわかりやすかった。
+    - ここの参考実装めっちゃわかりやすかった。
 
 - [ラズパイ3でベアメタル - その1:何もしない無限ループプログラム](http://d.hatena.ne.jp/cupnes/20160514/1463238354)
 
