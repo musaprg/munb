@@ -44,6 +44,8 @@ config.txtについての詳しいことについては、以下のサイトが�
 
 [Ubuntuにおける環境構築方法](http://dev.toppers.jp/trac_user/ev3pf/wiki/DevEnvLinux)
 
+[UbuntuでSTM32 ARMマイコン開発環境を整える](https://daichiahl.wordpress.com/2016/01/23/ubuntuでstm32-armマイコンの開発環境を整える/)
+
 ### USB・シリアル変換ケーブル
 
 UARTを用いたシリアル通信に必要。
@@ -55,6 +57,19 @@ UARTを用いたシリアル通信に必要。
 [ピン配置](http://akizukidenshi.com/download/ds/ftdi/TTL-232R_pin.pdf)
 
 ![](ttl232r3v3-pinassign.png)
+
+## 必要なファイル一覧
+
+|ファイル名|備考|
+|---|---|
+|start.elf|ブートローダー|
+|bootcode.bin|ブートローダー|
+|config.txt|ブートプロセスの記述|
+|kernel.img|ブートローダーが読み込むファイル|
+
+## ファームウェア
+
+ブートローダーい
 
 ## リンク集
 
