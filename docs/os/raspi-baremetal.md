@@ -73,7 +73,10 @@ UARTを用いたシリアル通信に必要。
 
 ブートローダーに関しては公式のものを使います。
 
-
+```bash
+wget http://raw.githubusercontent.com/raspberrypi/firmware/master/boot/start.elf
+wget http://raw.githubusercontent.com/raspberrypi/firmware/master/boot/bootcode.bin
+```
 
 ## リンク集
 
