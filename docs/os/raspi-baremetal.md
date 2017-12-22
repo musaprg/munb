@@ -1,9 +1,5 @@
 # Raspi3でのベアメタル関連情報メモ
 
-## 目標
-
-32bitモードでUART通信を使ってプログラムを受信し、実行するようなプログラムの作成。
-
 ## RaspberryPi仕様
 
 ### Raspberry Pi 2 Model B v1.2（UD-RP2）
@@ -15,8 +11,6 @@ http://www.iodata.jp/product/pc/raspberrypi/ud-rp2/spec.htm
 |CPU|Broadcom BCM2837<br>900MHz 64-bit quad-core ARMv8 Cortex-A53|
 |メモリ|1GB|
 
-
-
 ### Raspberry Pi 3 Model B (UD-RP3)
 
 http://www.iodata.jp/product/pc/raspberrypi/ud-rp3/spec.htm
@@ -25,6 +19,14 @@ http://www.iodata.jp/product/pc/raspberrypi/ud-rp3/spec.htm
 |---|---|
 |CPU|Broadcom BCM2837<br>1.2GHz 64-bit quad-core ARMv8 Cortex-A53|
 |メモリ|1GB|
+
+## 開発環境
+
+### クロスコンパイラ
+
+[GNU ARM Embedded Toolchain](https://launchpad.net/gcc-arm-embedded)
+
+[Ubuntuにおける環境構築方法](http://dev.toppers.jp/trac_user/ev3pf/wiki/DevEnvLinux)
 
 ## リンク集
 
