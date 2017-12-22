@@ -20,6 +20,22 @@ http://www.iodata.jp/product/pc/raspberrypi/ud-rp3/spec.htm
 |CPU|Broadcom BCM2837<br>1.2GHz 64-bit quad-core ARMv8 Cortex-A53|
 |メモリ|1GB|
 
+## RasPiのブートプロセス等について
+
+## ブートプロセス
+
+https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=6685
+
+### config.txt
+
+RasPiはBIOSを持たないため、ブート時の挙動については`config.txt`の記述によって決定する。
+
+config.txtについての詳しいことについては、以下のサイトが非常に見やすい。
+
+[RPiconfig](https://elinux.org/RPiconfig)
+
+また、公式ドキュメントも存在する。
+
 ## 開発環境
 
 ### クロスコンパイラ
