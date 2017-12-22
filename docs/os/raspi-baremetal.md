@@ -54,7 +54,7 @@ UARTを用いたシリアル通信に必要。
 
 [ピン配置](http://akizukidenshi.com/download/ds/ftdi/TTL-232R_pin.pdf)
 
-
+![](ttl232r3v3-pinassign.png)
 
 ## リンク集
 
