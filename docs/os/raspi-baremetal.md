@@ -26,6 +26,8 @@ http://www.iodata.jp/product/pc/raspberrypi/ud-rp3/spec.htm
 
 https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=6685
 
+[Raspberry Pi2(Linux Kernel)のブートシーケンスを読む(その1) アーキテクチャ依存部](https://qiita.com/Nao1215/items/b8f866b4ede757cdaa73)
+
 ### config.txt
 
 RasPiはBIOSを持たないため、ブート時の挙動については`config.txt`の記述によって決定する。
@@ -69,7 +71,9 @@ UARTを用いたシリアル通信に必要。
 
 ## ファームウェア
 
-ブートローダーい
+ブートローダーに関しては公式のものを使います。
+
+
 
 ## リンク集
 
