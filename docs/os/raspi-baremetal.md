@@ -85,6 +85,7 @@ wget http://raw.githubusercontent.com/raspberrypi/firmware/master/boot/bootcode.
 ### ブログ等
 
 - [dwelch67/raspberrypi: Raspberry Pi ARM based bare metal examples](https://github.com/dwelch67/raspberrypi)
+
   - ここの参考実装めっちゃわかりやすかった。
 
 - [ラズパイ3でベアメタル - その1:何もしない無限ループプログラム](http://d.hatena.ne.jp/cupnes/20160514/1463238354)
@@ -93,4 +94,4 @@ wget http://raw.githubusercontent.com/raspberrypi/firmware/master/boot/bootcode.
 
 - [RaspberryPi3 64bitモード ベアメタルをJTAGデバッグする](https://qiita.com/toshinaga/items/146bcb00db235258162f)
 
-[EclipseとOpenOCDでSTM32(ARM)マイコン開発](https://qiita.com/Ted-HM/items/760759b6b152230b48a8)
+- [EclipseとOpenOCDでSTM32(ARM)マイコン開発](https://qiita.com/Ted-HM/items/760759b6b152230b48a8)
