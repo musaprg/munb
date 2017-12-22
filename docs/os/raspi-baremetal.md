@@ -44,6 +44,18 @@ config.txtについての詳しいことについては、以下のサイトが�
 
 [Ubuntuにおける環境構築方法](http://dev.toppers.jp/trac_user/ev3pf/wiki/DevEnvLinux)
 
+### USB・シリアル変換ケーブル
+
+UARTを用いたシリアル通信に必要。
+
+[FTDI USB・シリアル変換ケーブル（TTL-232R-3V3）](http://akizukidenshi.com/catalog/g/gM-05840/)
+
+[データシート](http://akizukidenshi.com/download/ds/ftdi/TTL-232Rシリーズ参考資料.pdf)
+
+[ピン配置](http://akizukidenshi.com/download/ds/ftdi/TTL-232R_pin.pdf)
+
+
+
 ## リンク集
 
 ### 公式ドキュメント
