@@ -82,6 +82,12 @@ wget http://raw.githubusercontent.com/raspberrypi/firmware/master/boot/bootcode.
 
 http://softwaretechnique.jp/OS_Development/startup_kernel.html
 
+## トラブルシューティング
+
+### gccコンパイル時に`undefined reference to '_exit'`がでる
+
+https://stackoverflow.com/questions/19419782/exit-c-text0x18-undefined-reference-to-exit-when-using-arm-none-eabi-gcc
+
 ## リンク集
 
 ### 公式ドキュメント
