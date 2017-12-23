@@ -106,6 +106,8 @@ http://softwaretechnique.jp/OS_Development/startup_kernel.html
 
 https://www.raspberrypi.org/forums/viewtopic.php?t=190977
 
+
+
 ## トラブルシューティング
 
 ### gccコンパイル時に`undefined reference to '_exit'`がでる
