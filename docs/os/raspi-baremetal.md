@@ -54,11 +54,31 @@ UARTを用いたシリアル通信に必要。
 
 [FTDI USB・シリアル変換ケーブル（TTL-232R-3V3）](http://akizukidenshi.com/catalog/g/gM-05840/)
 
+[Drivers](http://www.ftdichip.com/Drivers/VCP.htm)
+
+Linuxの場合は必要ないかもしれない。
+
 [データシート](http://akizukidenshi.com/download/ds/ftdi/TTL-232Rシリーズ参考資料.pdf)
 
 [ピン配置](http://akizukidenshi.com/download/ds/ftdi/TTL-232R_pin.pdf)
 
 ![](ttl232r3v3-pinassign.png)
+
+#### RasPiとの接続
+
+|RasPiのGPIOピン||ケーブルの端子|
+|---|---|---|
+|GPIO14(TXD1)|⇔|YELLOW(RXD)|
+|GPIO15(RXD1)|⇔|ORANGE(TXD)|
+|GND|⇔|GND|
+
+## シリアル通信の仕様
+
+### miniUARTの場合
+
+ボーレート：115200bps
+
+ref) https://qiita.com/toshinaga/items/23d0bc0c74b49a6cccb1
 
 ## 必要なファイル一覧
 
