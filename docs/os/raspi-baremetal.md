@@ -78,6 +78,10 @@ wget http://raw.githubusercontent.com/raspberrypi/firmware/master/boot/start.elf
 wget http://raw.githubusercontent.com/raspberrypi/firmware/master/boot/bootcode.bin
 ```
 
+## リンカスクリプト
+
+http://softwaretechnique.jp/OS_Development/startup_kernel.html
+
 ## リンク集
 
 ### 公式ドキュメント
