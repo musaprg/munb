@@ -102,6 +102,10 @@ wget http://raw.githubusercontent.com/raspberrypi/firmware/master/boot/bootcode.
 
 http://softwaretechnique.jp/OS_Development/startup_kernel.html
 
+## SDカード（EMMC;External Mass Media Controller）まわりについて
+
+https://www.raspberrypi.org/forums/viewtopic.php?t=190977
+
 ## トラブルシューティング
 
 ### gccコンパイル時に`undefined reference to '_exit'`がでる
