@@ -113,6 +113,7 @@ https://stackoverflow.com/questions/19419782/exit-c-text0x18-undefined-reference
 ### 公式ドキュメント
 
 [BCM2836ドキュメント](https://github.com/raspberrypi/documentation/blob/master/hardware/raspberrypi/bcm2836)
+[BCM2835ドキュメント](https://www.raspberrypi.org/documentation/hardware/raspberrypi/bcm2835/BCM2835-ARM-Peripherals.pdf)
 
 ### ブログ等
 
