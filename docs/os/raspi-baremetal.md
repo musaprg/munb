@@ -123,6 +123,10 @@ https://stackoverflow.com/questions/19419782/exit-c-text0x18-undefined-reference
 
 ### ブログ等
 
+- [bztsrc/raspi3-tutorial: Bare metal Raspberry Pi 3 tutorials](https://github.com/bztsrc/raspi3-tutorial)
+
+    - RasPi3のベアメタル実装。つよい。
+
 - [dwelch67/raspberrypi: Raspberry Pi ARM based bare metal examples](https://github.com/dwelch67/raspberrypi)
 
     - ここの参考実装めっちゃわかりやすかった。
