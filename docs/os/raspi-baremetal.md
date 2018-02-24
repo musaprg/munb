@@ -118,6 +118,7 @@ https://stackoverflow.com/questions/19419782/exit-c-text0x18-undefined-reference
 
 ### 公式ドキュメント
 
+[RaspberryPi Documentation](https://github.com/raspberrypi/documentation)
 [BCM2836ドキュメント](https://github.com/raspberrypi/documentation/blob/master/hardware/raspberrypi/bcm2836)
 [BCM2835ドキュメント](https://www.raspberrypi.org/documentation/hardware/raspberrypi/bcm2835/BCM2835-ARM-Peripherals.pdf)
 
@@ -125,7 +126,7 @@ https://stackoverflow.com/questions/19419782/exit-c-text0x18-undefined-reference
 
 - [bztsrc/raspi3-tutorial: Bare metal Raspberry Pi 3 tutorials](https://github.com/bztsrc/raspi3-tutorial)
 
-    - RasPi3のベアメタル実装。つよい。
+    - RasPi3のベアメタル実装。つよい。
 
 - [dwelch67/raspberrypi: Raspberry Pi ARM based bare metal examples](https://github.com/dwelch67/raspberrypi)
 
