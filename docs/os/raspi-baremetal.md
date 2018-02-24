@@ -124,6 +124,10 @@ https://stackoverflow.com/questions/19419782/exit-c-text0x18-undefined-reference
 
 ### ブログ等
 
+- [RPi Hub](https://elinux.org/RPi_Hub)
+
+    - すごい役に立つWiki
+
 - [bztsrc/raspi3-tutorial: Bare metal Raspberry Pi 3 tutorials](https://github.com/bztsrc/raspi3-tutorial)
 
     - RasPi3のベアメタル実装。つよい。
