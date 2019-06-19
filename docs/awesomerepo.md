@@ -1,32 +1,33 @@
 # Awesome repository for me 
 
 ## Math
-http://nineties.github.io/math-seminar
-http://nineties.github.io/category-seminar
-http://nineties.github.io/prml-serminar
+http://nineties.github.io/math-seminar  
+http://nineties.github.io/category-seminar  
+http://nineties.github.io/prml-serminar  
 
 ## Build your own OS
 ### Rust
-https://github.com/thepowersgang/rust_os
-https://github.com/rust-osdev
+https://github.com/thepowersgang/rust_os  
+https://github.com/rust-osdev  
 
 ## C++
 ### Single Header Libraries
-https://github.com/kazuho/picojson
-https://github.com/nothings/stb
+https://github.com/nothings/single_file_libs  
+https://github.com/kazuho/picojson  
+https://github.com/nothings/stb  
 
 ## Tutorial
 ### Machine Learning
-https://github.com/HumanomeLab/mlcourse
+https://github.com/HumanomeLab/mlcourse  
 
 ### TensorFlow
-https://github.com/machinelearningmindset/TensorFlow-Course
+https://github.com/machinelearningmindset/TensorFlow-Course  
 
 ### NLP
-https://github.com/neubig/nlptutorial
+https://github.com/neubig/nlptutorial  
 
 ### HPC
-https://github.com/kaityo256/sevendayshpc
+https://github.com/kaityo256/sevendayshpc  
 
 ### System Design
-https://github.com/donnemartin/system-design-primer
+https://github.com/donnemartin/system-design-primer  
