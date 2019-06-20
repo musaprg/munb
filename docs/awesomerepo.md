@@ -31,3 +31,4 @@ https://github.com/kaityo256/sevendayshpc
 
 ### System Design
 https://github.com/donnemartin/system-design-primer  
+https://github.com/binhnguyennus/awesome-scalability
