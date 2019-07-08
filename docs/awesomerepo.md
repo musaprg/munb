@@ -1,5 +1,8 @@
 # Awesome repository for me 
 
+## Algorithm and Data Structure
+https://github.com/TheAlgorithms/Python
+
 ## Math
 http://nineties.github.io/math-seminar  
 http://nineties.github.io/category-seminar  
